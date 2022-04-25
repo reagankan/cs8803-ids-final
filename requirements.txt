@@ -1,0 +1,5 @@
+scikit-learn
+numpy
+matplotlib
+nb_conda
+# torch. use command: conda install pytorch torchvision torchaudio -c pytorch

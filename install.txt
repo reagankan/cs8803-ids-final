@@ -1,0 +1,9 @@
+  conda install nb_conda
+  conda install pandas
+  conda install torchsummary
+  conda install -c conda-forge pytorch-model-summary
+  conda install captum -c pytorch
+  conda install -c conda-forge netaddr
+  conda install -c conda-forge numpy-hilbert-curve
+  pip install numpy-hilbert-curve
+  conda install -c plotly plotly=5.7.0
